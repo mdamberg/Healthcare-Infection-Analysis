@@ -90,10 +90,13 @@ Repository Structure
 
 
 Getting Started
+
   1). Clone this repository:
       - git clone https://github.com/mdamberg/healthcare-associated-infections.git
+      
   2). Install the required Python libraries:
       - pip install -r requirements.txt
+      
   3). Open the Jupyter Notebook for detailed analysis:
       - jupyter notebook notebooks/HAI_Analysis.ipynb
 
