@@ -1,7 +1,7 @@
 # Healthcare-Infection-Analysis 
 This project is healthcare-focused, exploring trends in healthcare-associated infections across U.S. hospitals. 
 
-![Dashboard Preview](./Hospital Acquired Infections-preview.png)
+![Dashboard Preview](./Hospital Acquired Infections.pdf-preview.png)
 
 Healthcare-Associated Infections Analysis
 
@@ -79,7 +79,7 @@ How to Use This Repository
 
     ## View Dashboard
 
-   [View the Dashboard PDF](./Hospital Acquired Infections.pdf)
+   [View the Dashboard PDF](./Hospital Acquired Infections.pdf.pdf)
 
 
 
