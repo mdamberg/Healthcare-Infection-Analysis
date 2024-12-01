@@ -6,12 +6,14 @@ This project is healthcare-focused, exploring trends in healthcare-associated in
 Healthcare-Associated Infections Analysis
 
 Overview
+
 This project focuses on analyzing healthcare-associated infections (HAIs) in U.S. hospitals to identify infection trends, assess performance against national benchmarks, and classify facilities into risk categories. The dataset contains over 21,000 rows and 18 variables, including infection scores, infection types (e.g., C. difficile, MRSA), observed and predicted cases, and geographic data.
 
 By leveraging data science techniques like Exploratory Data Analysis (EDA), Principal Component Analysis (PCA), K-means clustering, and predictive modeling, this analysis provides actionable insights to improve infection prevention strategies and patient outcomes.
 
 
 Key Objectives
+
 - Identify facilities and regions with the highest infection rates.
 - Compare infection types and scores to national benchmarks.
 - Classify facilities into high-risk and low-risk categories for proactive management.
@@ -19,6 +21,7 @@ Key Objectives
 
 
 Tools and Technologies
+
 - Python: Used for data cleaning, EDA, clustering, PCA, and predictive modeling.
 - Power BI: Developed interactive dashboards to visualize findings and communicate results effectively.
 - Libraries:
@@ -28,6 +31,7 @@ Tools and Technologies
 
     
 Steps and Methods
+
   1). Dataset Preparation:
     - Loaded the dataset and cleaned data for missing values and inconsistent formatting.
     - Filtered relevant rows for specific analyses (e.g., "Observed Cases" in Measure Name).
@@ -61,6 +65,7 @@ Steps and Methods
 
   
 Key Findings
+
   - High-Risk Regions: Washington, D.C., Massachusetts, and New York showed disproportionately high infection rates, particularly for C. difficile.
   - National Benchmarks: Certain infection types consistently exceeded national averages, highlighting areas for improvement.
   - Cluster Insights: K-means clustering revealed distinct groups of facilities with similar infection performances, allowing for tailored interventions.
@@ -68,6 +73,7 @@ Key Findings
 
 
 How to Use This Repository
+ 
   1). Jupyter Notebook:
     - Explore the full Python analysis, including data preprocessing, EDA, PCA, clustering, and predictive modeling.
     - Code is well-documented for clarity and reproducibility.
@@ -87,6 +93,7 @@ How to Use This Repository
 
     
 Repository Structure
+
   - notebooks/: Contains the Jupyter Notebook for Python analysis.
   - dashboards/: Includes the Power BI file for interactive visualization.
   - data/: Original dataset (if allowed to share publicly).
