@@ -79,7 +79,7 @@ How to Use This Repository
 
     ## View Dashboard
 
-   ![Dashboard Preview](./Hospital%20Acquired%20Infections-preview.png)
+   [View the Dashboard PDF](./Hospital%20Acquired%20Infections.pdf)
 
 
   3). Dataset:
