@@ -3,8 +3,6 @@ This project is healthcare-focused, exploring trends in healthcare-associated in
 
 ![Dashboard Preview](./Hospital%20Acquired%20Infections.png)
 
-![DAX Measures Preview](./DAX%20Measures.png)
-
 Healthcare-Associated Infections Analysis
 
 Overview
