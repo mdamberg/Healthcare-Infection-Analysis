@@ -3,6 +3,8 @@ This project is healthcare-focused, exploring trends in healthcare-associated in
 
 ![Dashboard Preview](./Hospital%20Acquired%20Infections.png)
 
+![DAX Measures Preview](./DAX%20Measures.png)
+
 Healthcare-Associated Infections Analysis
 
 Overview
@@ -86,6 +88,9 @@ How to Use This Repository
     ## View Dashboard
 
    [View the Dashboard](./Hospital%20Acquired%20Infections.png)
+
+    ## View DAX Measures
+   [View the DAX Measures Image](./DAX%20Measures.png)
 
 
   3). Dataset:
