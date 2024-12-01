@@ -1,6 +1,7 @@
-# Healthcare-Infection-Analysis
+# Healthcare-Infection-Analysis 
 This project is healthcare-focused, exploring trends in healthcare-associated infections across U.S. hospitals. 
 
+![Dashboard Preview](./Hospital Acquired Infections-preview.png)
 
 Healthcare-Associated Infections Analysis
 
@@ -75,6 +76,11 @@ How to Use This Repository
   2). Power BI Dashboard:
     - Interactive dashboard showcasing key visualizations and findings.
     - Provides an overview of infection trends, high-risk regions, and benchmarking insights.
+
+    ## View Dashboard
+
+   [View the Dashboard PDF](./Hospital Acquired Infections.pdf)
+
 
 
   3). Dataset:
