@@ -1,5 +1,5 @@
 # Healthcare-Infection-Analysis 
-This project is healthcare-focused, exploring trends in healthcare-associated infections across U.S. hospitals. 
+This project is healthcare-focused, exploring trends in healthcare-associated infections across U.S. hospitals. (Link to full dashboard below)
 
 ![Dashboard Preview](./Hospital%20Acquired%20Infections.png)
 
