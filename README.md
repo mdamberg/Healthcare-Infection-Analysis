@@ -99,7 +99,7 @@ Repository Structure
 
   - notebooks/: Contains the Jupyter Notebook for Python analysis.
   - dashboards/: Includes the Power BI file for interactive visualization.
-  - data/: Original dataset (if allowed to share publicly).
+  - data/: Original dataset 
   - README.md: Project overview and instructions.
   - requirements.txt: Python libraries required to run the notebook.
 
